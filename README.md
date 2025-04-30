@@ -3,6 +3,8 @@
 A natural language interface for querying the AtliQ T-Shirts inventory database. This application allows users to ask questions about the inventory in plain English and receive answers based on SQL queries executed against the database.
 Idea: @codebasics
 
+![App](assets/app.png)
+
 ## Features
 
 - **Natural Language Interface:** Ask questions in plain English about the t-shirt inventory
